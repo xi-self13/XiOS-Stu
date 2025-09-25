@@ -8,6 +8,6 @@ Well... lets see... oh...
 
 You need the following packages:
 ```shell
-sudo apt install qemu-system build-essential nasm 
+sudo apt install qemu-system build-essential nasm binutils
 
 ```
