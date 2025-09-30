@@ -1,13 +1,4 @@
-# Work In Progress...
+# XiOS is paused
+xios is paused cause i have a show to run. And expect a lot of errors on this repo. Feedback is greatly appreciated. just dont be mean about it... thanks!
 
-I relized... i cant just use ai to code... i am now less motivated... was a good attempt... just NOTE TO SELF: Don't use AI to code. Well, if you is here for contributions... Well i might as well...\
-
-## How to contribute...
-
-Well... lets see... oh... 
-
-You need the following packages:
-```shell
-sudo apt install qemu-system build-essential nasm binutils
-
-```
+XiOS is based on MacOS and iOS, even if its not the same arch. iOS26 is inspiring for me!
