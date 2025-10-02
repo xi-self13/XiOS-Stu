@@ -1,6 +1,6 @@
 # XiOS \- Development Stage
 
-	Hi there\! You may have stumbled across an awesome project\! XiOS is an inspirational operating system made by me\! Xi (aka Ron. A.). This project is not just gonna be a hobby OS. No. And it’s not gonna be for business use. No\! It’s a random OS I've been planning since I was 10\. 
+Hi there\! You may have stumbled across an awesome project\! XiOS is an inspirational operating system made by me\! Xi (aka Ron. A.). This project is not just gonna be a hobby OS. No. And it’s not gonna be for business use. No\! It’s a random OS I've been planning since I was 10\. 
 
 ## What it was (as a concept) before I actually picked its name. 
 
