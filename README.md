@@ -1,6 +1,14 @@
-# XiOS is paused
-xios is paused cause i have a show to run. And expect a lot of errors on this repo. Feedback is greatly appreciated. just dont be mean about it... thanks!
+# XiOS \- Development Stage
 
-The code on here... according to one of my discord server members, said the code will not work!
+	Hi there\! You may have stumbled across an awesome project\! XiOS is an inspirational operating system made by me\! Xi (aka Ron. A.). This project is not just gonna be a hobby OS. No. And it’s not gonna be for business use. No\! It’s a random OS I've been planning since I was 10\. 
 
-XiOS is based on MacOS and iOS, even if its not the same arch. iOS26 is inspiring for me!
+## What it was (as a concept) before I actually picked its name. 
+
+XiOS was an OS called Lindows, a concept OS that was supposed to bring Windows and Linux together in 2020\. It's also supposed to be an OS that is separated from Windows and Linux. It also could’ve ported Windows to Linux and Linux to Windows. But then this idea died because Windows already had Linux support called WLS (Windows Linux Subsystem). The ability to run Linux OS on Windows, at least the terminal version. Lindows idea was dead. Next up in 2022, it finally was called Blazing Mint (wtf is that name bro…), this Operating System has support built in with the ability to switch OS from Console (the original), PC, Laptop, and Mobile Operating System. This idea didn’t die, but it evolved, the only thing that is the ability to switch OS type. 2023\. The year that Blazing Mint evolved into XOS. Not anywhere near ideal to XiOS. XOS is this OS that almost matches the concept with XiOS. But it was the OS that runs my fictional character, Xi. This idea also evolved into XiOS. 2025, XiOS, which is now in the works, by me, and my online cloudstation that took years to set up (exaggerating). This Operating System is the most customizable Operating System ever. You can move the taskbar like a window. Just unlock it, and move it anywhere (a feature from Windows 10 which they gave up), but it doesn't snap unless you enable snapping\!
+
+## XiOS Features
+
+You can customize the OS, anyway possible (just not the kernel or anything… or it may break the whole OS unless you already have the source code). Move the taskbar anywhere, just unlock it, and move it just like anywhere\! You can enable side snapping to snap the taskbar, up, down, left and right. Rotate it\! Icons will automatically align with the screen’s rotation. You can pull icons out and add a new taskbar. Like, drag the **X** menu out and put it upside down on the top of the screen. You can name the OS, XiOS Lite, and do a restart, it will be XiOS Lite Edition, a minimal version to XiOS, great for any devices that are too weak to run the default XiOS. Secret and public option. Download the Lite Edition on my repo (not available). More features is yet to come
+
+Security, now here is the hard part, trying to register a device once we have NetDriveX Internet Driver ready. We are gonna assume all devices are registered until I get the ability to send data to my servers and make sure it’s trusted (like Apple does it). This OS is locked down (like Apple) with either the Secretary Build or CheeseKake Build. The OpenSourced build is code named SurPlus Build. XiOS will have a unique identifier for each locked down build. Example, \[device version\].\[OS version\].\[buildid(hashed)\].\[and random string\]
+
